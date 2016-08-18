@@ -1,0 +1,30 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoRegular.woff") format("woff"),
+	url("../fonts/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "Robotolight"; */
+@font-face {
+	font-family: "RobotoLight";
+	src: url("../fonts/robotolight.eot");
+	src: url("../fonts/robotolight.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/robotolight.woff") format("woff"),
+	url("../fonts/robotolight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "RobotoMedium"; */
+@font-face {
+	font-family: "RobotoMedium";
+	src: url("../fonts/robotomedium.eot");
+	src: url("../fonts/robotomedium.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/robotomedium.woff") format("woff"),
+	url("../fonts/robotomedium.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
